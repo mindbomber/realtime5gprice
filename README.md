@@ -1,2 +1,2 @@
 # realtime5gprice
-This is a repository for a software system which can manage logistics data throughout the supply chain to give consumers real time price information of individual goods by using 5g data transmission and deep neural nets to manage and control information processes in order to achieve the lowest price possible.
+This is a repository for a software system which can manage logistics data throughout the supply chain (from farm to fork) to give consumers real time price information of individual goods by using 5g data transmission, block chain technology, mobile payment devices, and deep neural nets to manage and control information processes in order to achieve the lowest price possible as close to real time as possible.
